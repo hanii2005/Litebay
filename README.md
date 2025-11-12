@@ -1,6 +1,6 @@
 # 🛒 Litebay - Website Thương Mại Điện Tử
 
-Website thương mại điện tử demo mô phỏng theo phong cách eBay, được xây dựng với React + Vite + TailwindCSS.
+Website thương mại điện tử demo dựa trên eBay, được xây dựng với React + Vite + TailwindCSS.
 
 ## ✨ Tính năng
 
@@ -231,9 +231,10 @@ MIT License - Tự do sử dụng cho mục đích học tập và thương mạ
 
 ## 👨‍💻 Tác giả
 
-Litebay Team
+Nhóm 2
 
 ---
 
-**Lưu ý**: Đây là dự án demo, phù hợp cho mục đích học tập và portfolio.
+**Lưu ý**: Đây là dự án demo, phù hợp cho mục đích học tập, portfolio và được xây dựng bằng AI.
+
 
