@@ -1,0 +1,17 @@
+{
+  "name": "Litebay - Thương mại điện tử",
+  "short_name": "Litebay",
+  "description": "Website thương mại điện tử hàng đầu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0066cc",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
+

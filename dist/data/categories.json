@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Điện thoại",
+    "slug": "dien-thoai",
+    "icon": "📱"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "slug": "laptop",
+    "icon": "💻"
+  },
+  {
+    "id": 3,
+    "name": "Âm thanh",
+    "slug": "am-thanh",
+    "icon": "🎧"
+  },
+  {
+    "id": 4,
+    "name": "TV & Màn hình",
+    "slug": "tv-man-hinh",
+    "icon": "📺"
+  },
+  {
+    "id": 5,
+    "name": "Đồng hồ thông minh",
+    "slug": "dong-ho-thong-minh",
+    "icon": "⌚"
+  },
+  {
+    "id": 6,
+    "name": "Máy ảnh",
+    "slug": "may-anh",
+    "icon": "📷"
+  },
+  {
+    "id": 7,
+    "name": "Phụ kiện",
+    "slug": "phu-kien",
+    "icon": "⌨️"
+  },
+  {
+    "id": 8,
+    "name": "Tablet",
+    "slug": "tablet",
+    "icon": "📱"
+  },
+  {
+    "id": 9,
+    "name": "Gaming",
+    "slug": "gaming",
+    "icon": "🎮"
+  }
+]
+
